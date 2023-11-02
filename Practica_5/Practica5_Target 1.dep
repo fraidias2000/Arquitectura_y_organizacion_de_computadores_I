@@ -1,0 +1,5 @@
+Dependencies for Project 'Practica5', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4CCAADFA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\ensamblador.s)(0x5ECF7897)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "ensamblador.lst" --xref -o "ensamblador.o" --depend "ensamblador.d")
+F (.\fuente.c)(0x5ECFED55)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "fuente.o" --omf_browse "fuente.crf" --depend "fuente.d")
+I (C:\Keil\ARM\RV31\INC\stdlib.h)(0x4CCAAD7C)

@@ -1,0 +1,1 @@
+ensamblador.o: ensamblador.s
