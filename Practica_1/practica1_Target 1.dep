@@ -1,0 +1,2 @@
+Dependencies for Project 'practica1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\practica1.s)(0x53143102)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "D:\arquitectura_computadores\ARM\INC" -I "D:\arquitectura_computadores\ARM\INC\Philips" --list "practica1.lst" --xref -o "practica1.o" --depend "practica1.d")
