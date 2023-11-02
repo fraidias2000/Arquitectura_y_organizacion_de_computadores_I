@@ -1,0 +1,2 @@
+Dependencies for Project 'Suma', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Suma.s)(0x5EB84AD9)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "Suma.lst" --xref -o "Suma.o" --depend "Suma.d")
