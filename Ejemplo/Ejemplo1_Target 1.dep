@@ -1,0 +1,2 @@
+Dependencies for Project 'Ejemplo1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\codigo.s)(0x5E579168)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "codigo.lst" --xref -o "codigo.o" --depend "codigo.d")

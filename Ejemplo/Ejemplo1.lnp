@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "codigo.o" --strict --scatter ".\practica1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Ejemplo1.map" -o "Ejemplo1.axf"

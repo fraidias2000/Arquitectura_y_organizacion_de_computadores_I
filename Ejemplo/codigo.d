@@ -1,0 +1,1 @@
+codigo.o: codigo.s
