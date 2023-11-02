@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'Insercion.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"insercion.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "insercion.o" --strict --scatter ".\practica1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Insercion.map" -o "Insercion.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Insercion.axf'
+### ADS-LD Command File: 'Insercion.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Insercion.lnp', Handle=0x000008F0
+### Writing '.lnp' file
+### ADS-LD Command file 'Insercion.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

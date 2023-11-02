@@ -1,0 +1,2 @@
+Dependencies for Project 'Insercion', Target 'Target 1': (DO NOT MODIFY !)
+F (.\insercion.s)(0x5EBEB105)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "insercion.lst" --xref -o "insercion.o" --depend "insercion.d")

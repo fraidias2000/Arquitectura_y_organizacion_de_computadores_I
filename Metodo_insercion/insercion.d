@@ -1,0 +1,1 @@
+insercion.o: insercion.s
