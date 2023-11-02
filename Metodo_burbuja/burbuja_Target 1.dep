@@ -1,0 +1,2 @@
+Dependencies for Project 'burbuja', Target 'Target 1': (DO NOT MODIFY !)
+F (.\burbuja.s)(0x5EBE7DCA)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "burbuja.lst" --xref -o "burbuja.o" --depend "burbuja.d")

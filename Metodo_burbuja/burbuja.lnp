@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "burbuja.o" --strict --scatter ".\practica1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\burbuja.map" -o "burbuja.axf"

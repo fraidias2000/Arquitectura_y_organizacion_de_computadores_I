@@ -1,0 +1,19 @@
+*** Creating Trace Output File 'burbuja.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"burbuja.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "burbuja.o" --strict --scatter ".\practica1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\burbuja.map" -o "burbuja.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'burbuja.axf'
+### ADS-LD Command File: 'burbuja.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'burbuja.lnp', Handle=0x00000B14
+### Writing '.lnp' file
+### ADS-LD Command file 'burbuja.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

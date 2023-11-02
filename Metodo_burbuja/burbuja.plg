@@ -1,0 +1,17 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ACULPLAY\Desktop\INGENIERIA__INFORMATICA\2\SEGUNDO_CUATRIMESTRE\ARM_1\PRACTICA\Practica3\Burbuja\burbuja.uvproj
+Project File Date:  05/15/2020
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling burbuja.s...
+burbuja.s(56): warning: A1447W: Missing END directive at end of file, but found a label named END
+burbuja.s:    56 00000070 
+burbuja.s: 0 Errors, 1 Warning
+linking...
+Program Size: Code=120 RO-data=0 RW-data=84 ZI-data=0  
+"burbuja.axf" - 0 Error(s), 1 Warning(s).
